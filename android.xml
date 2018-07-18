@@ -2865,7 +2865,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="enableSMSAllowed" description="">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="aim_ShortTermsView" description="Отображение условий вклада в виде списка при открытии">
 <type>setting</type>
