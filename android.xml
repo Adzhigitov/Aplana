@@ -3290,10 +3290,10 @@ devmfp/api/adapters/retailStatementBranchBhMfpAdapterMobileIFT/request/rest/proc
 <nodes>
 <node id="mobile.sberbank.ru">
 <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
-<mobileBankFromSettings>true</mobileBankFromSettings>
+<mobileBankFromSettings>false</mobileBankFromSettings>
 <turnOffFullTariffEnabled>true</turnOffFullTariffEnabled>
 <efsMobileBank82>false</efsMobileBank82>
-<showNotificationWS>false</showNotificationWS>
+<showNotificationWS>true</showNotificationWS>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
