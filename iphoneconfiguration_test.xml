@@ -3608,7 +3608,7 @@
                   <enabled>true</enabled>
                 </node>
                 <node id="mobile.sberbank.ru">
-                  <enabled>true</enabled>
+                  <enabled>false</enabled>
                 </node>
                 <node id="194.186.207.23">
                   <enabled>true</enabled>
