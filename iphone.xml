@@ -3844,13 +3844,13 @@
             </nodes>
             <levels>
                 <level id="showAnimatedBagePostLoginHistory">
-                    <enabled>true</enabled>
+                    <enabled>false</enabled>
                 </level>
                 <level id="showBagePostLoginHistory">
-                    <enabled>true</enabled>
+                    <enabled>false</enabled>
                 </level>
                 <level id="showBagePreLogin">
-                    <enabled>false</enabled>
+                    <enabled>true</enabled>
                 </level>
                 <level id="showBageOnAppIcon">
                     <enabled>true</enabled>
