@@ -6,7 +6,7 @@
 			<enabled>true</enabled>
 			<nodes>
 				<node id="mobile.sberbank.ru" description="Ñòåíä ÏÑÈ">
-					<bonusBalance>false</bonusBalance>
+					<bonusBalance>true</bonusBalance>
 					<dashboard>true</dashboard>
 					<distanceToNearestSalesPoint>false</distanceToNearestSalesPoint>
 					<offers>false</offers>
