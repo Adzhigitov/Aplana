@@ -3844,7 +3844,7 @@
             </nodes>
             <levels>
                 <level id="showAnimatedBagePostLoginHistory">
-                    <enabled>true</enabled>
+                    <enabled>false</enabled>
                 </level>
                 <level id="showBagePostLoginHistory">
                     <enabled>true</enabled>
