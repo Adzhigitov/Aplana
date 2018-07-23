@@ -3983,7 +3983,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <enabled>true</enabled>
 </level>
 <level id="showBagePostLoginHistory">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </level>
 <level id="showBagePreLogin">
 <enabled>true</enabled>
