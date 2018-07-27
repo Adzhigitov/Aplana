@@ -3292,6 +3292,7 @@ devmfp/api/adapters/retailStatementBranchBhMfpAdapterMobileIFT/request/rest/proc
 <targetTapToActivationMobileBank>true</targetTapToActivationMobileBank>
 <mobileBankFromSettings>true</mobileBankFromSettings>
 <turnOffFullTariffEnabled>true</turnOffFullTariffEnabled>
+<turnOffFullTariffEnabled83>true</turnOffFullTariffEnabled83>
 <efsMobileBank82>true</efsMobileBank82>
 <showNotificationWS>true</showNotificationWS>
 </node>
