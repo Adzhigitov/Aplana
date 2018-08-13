@@ -1407,10 +1407,6 @@ The entered ID is already in use in the system. Enter a different value
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 </node>
-<node id="psinode1.testonline.sberbank.ru">
-<buttonToPostLogin>true</buttonToPostLogin>
-<pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
-</node>
 <node id="mobile.sberbank.ru">
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
