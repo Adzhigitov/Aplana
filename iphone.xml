@@ -3273,6 +3273,32 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <periodInDays>3</periodInDays>
 <number>5</number>
 </param>
+<param name="nodeDoNotShowPushTutorialForApiLevels" description="">
+<type>list</type>
+<nodes>
+<node id="greenfield1.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="greenfield2.online.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="mobile.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node1-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+<node id="ift-node2-mp.testonline.sberbank.ru">
+<enabled>true</enabled>
+</node>
+</nodes>
+</param>
 <param name="CardPushEnabled" description="">
 <type>setting</type>
 <enabled>true</enabled>
