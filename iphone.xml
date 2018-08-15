@@ -4029,7 +4029,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <level id="showBagePreLogin">
 <enabled>true</enabled>
 <level id="showBagePostLoginNavBar">
-<enabled>false</enabled>
+<enabled>true</enabled>
 </level>
 </level>
 </levels>
