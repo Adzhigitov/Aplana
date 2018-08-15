@@ -4028,6 +4028,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </level>
 <level id="showBagePreLogin">
 <enabled>true</enabled>
+</level>
 <level id="showBadgePostLoginNavBar">
 <enabled>true</enabled>
 </level>
