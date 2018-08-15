@@ -1412,7 +1412,7 @@ The entered ID is already in use in the system. Enter a different value
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<productNavigationBarMod>0</productNavigationBarMod>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -4030,7 +4030,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <enabled>true</enabled>
 </level>
 <level id="showBadgePostLoginNavBar">
-<enabled>true</enabled>
+<enabled>false</enabled>
 </level>
 </levels>
 </param>
