@@ -1412,7 +1412,6 @@ The entered ID is already in use in the system. Enter a different value
 <pushHistoryAvailableInTabbarBank>true</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
-<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
@@ -1891,6 +1890,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
+<productNavigationBarMod>3</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
@@ -4028,6 +4028,9 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </level>
 <level id="showBagePreLogin">
 <enabled>true</enabled>
+<level id="showBagePostLoginNavBar">
+<enabled>false</enabled>
+</level>
 </level>
 </levels>
 </param>
