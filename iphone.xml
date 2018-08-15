@@ -4031,7 +4031,6 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <level id="showBadgePostLoginNavBar">
 <enabled>true</enabled>
 </level>
-</level>
 </levels>
 </param>
 <param name="MAppDebitCardNegativeBalance" description="Почему минус на дебетовой карте">
