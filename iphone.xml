@@ -1890,7 +1890,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <arrestInfoService>true</arrestInfoService>
-<productNavigationBarMod>1</productNavigationBarMod>
+<productNavigationBarMod>2</productNavigationBarMod>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <coreQR>true</coreQR>
