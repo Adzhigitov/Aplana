@@ -3943,7 +3943,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 </param>
 <param name="TPNDataEnrichment" description="Возможность обогащения данных для ТПУ на разрешенных нодах">
 <type>setting</type>
-<enabled>false</enabled>
+<enabled>true</enabled>
 </param>
 <param name="NodeTPNDataEnrichment" description="Возможность обогащения данных для ТПУ на разных нодах">
 <type>list</type>
