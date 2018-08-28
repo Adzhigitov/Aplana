@@ -3939,7 +3939,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <param name="DelayCuteCheck" description="время ожидания ответа с обогащённым контентом">
 <type>setting</type>
 <enabled>true</enabled>
-<delay>10</delay>
+<delay>1</delay>
 </param>
 <param name="TPNDataEnrichment" description="Возможность обогащения данных для ТПУ на разрешенных нодах">
 <type>setting</type>
