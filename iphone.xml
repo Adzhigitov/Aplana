@@ -1769,7 +1769,7 @@ The entered ID is already in use in the system. Enter a different value
 <newSectionInvestEnable>true</newSectionInvestEnable>
 <hidingSectionEnabled>true</hidingSectionEnabled>
 <FastLoginApp>true</FastLoginApp>
-<productNavigationBarMod>3</productNavigationBarMod>
+<productNavigationBarMod>0</productNavigationBarMod>
 </node>
 <node id="greenfield2.online.sberbank.ru">
 <coreQR>true</coreQR>
