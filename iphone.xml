@@ -4401,7 +4401,8 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <buttonToPostLogin>true</buttonToPostLogin>
 <pushHistoryAvailableInTabbarBank>false</pushHistoryAvailableInTabbarBank>
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
-<TurnOffOperationPush>true</TurnOffOperationPush> 
+<TurnOffOperationPush>true</TurnOffOperationPush>
+<pushLogoTypeUsing>true</pushLogoTypeUsing>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
