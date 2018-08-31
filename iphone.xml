@@ -4403,6 +4403,7 @@ consumer-loan/v2/mobile/banking/products/loans/consumerloan/request/GetConfirmat
 <autoTurnOffOperationPush>true</autoTurnOffOperationPush>
 <TurnOffOperationPush>true</TurnOffOperationPush>
 <pushLogoTypeUsing>true</pushLogoTypeUsing>
+<MessagesWithExpired>true</MessagesWithExpired>
 </node>
 <node id="194.186.207.23">
 <buttonToPostLogin>true</buttonToPostLogin>
